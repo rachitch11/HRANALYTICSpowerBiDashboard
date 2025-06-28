@@ -1,5 +1,5 @@
 # HRANALYTICSpowerBiDashboard
-This is a simple Power BI dashboard project showcasing HR analytics for companies, providing valuable insights to support strategic business decisions regarding employees across different departments.
+This is a simple Power BI dashboard project showcasing HR analytics for companies, providing valuable insights to support strategic business decisions regarding employees across different  departments.
 
 Key Takeaways:
 
